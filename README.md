@@ -85,7 +85,7 @@ The HTML template provides a simple interface for users to upload an image file.
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Cartoonize Image</title>
+    <title>Cartooning Of an Image</title>
   </head>
   <body>
     <h1>Upload an image to cartoonize</h1>
